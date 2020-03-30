@@ -1,0 +1,72 @@
+h1{
+    text-align: center;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: rgb(255,255,0);
+}
+body{
+    background-color: rgb(30, 144, 255);
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 20, 147);
+}
+#HSM{
+    max-width: 120px;
+}
+#HSM:hover{
+    max-width: 320px;
+}
+#Descendants{
+    max-width: 120px;
+}
+#Descendants:hover{
+    max-width: 320px;
+}
+#Mando{
+    max-width: 120px;
+}
+#Mando:hover{
+    max-width: 320px;
+}
+#Zombie{
+    max-width: 120px;
+}
+#Zombie:hover{
+    max-width: 320px;
+}
+#VT{
+    max-width: 120px;
+}
+#VT:hover{
+    max-width: 320px;
+}
+#Marvel{
+    max-width: 120px;
+}
+#Marvel:hover{
+    max-width: 320px;
+}
+#Jessie{
+    max-width: 120px;
+}
+#Jessie:hover{
+    max-width: 320px;
+}
+#Glee{
+    max-width: 120px;
+}
+#Glee:hover{
+    max-width: 320px;
+}
+#Greys{
+    max-width: 120px;
+}
+#Greys:hover{
+    max-width: 320px;
+}
+#Riverdale{
+    max-width: 120px;
+}
+#Riverdale:hover{
+    max-width: 320px;
+}
