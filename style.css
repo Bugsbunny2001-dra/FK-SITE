@@ -2,66 +2,113 @@ h1{
     text-align: center;
     font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
     color: rgb(255,255,0);
+    font-size: 20px;
+    max-width: 768px;
+    margin: auto;
 }
 body{
     background-color: rgb(30, 144, 255);
+    max-width:768px;
+    margin: auto;
 }
 a{
     text-decoration: none;
     color: rgb(255, 20, 147);
 }
+#CB{
+  max-width: 65px;
+  margin: auto;
+}
+#FK{
+  max-width: 30px;
+  margin: auto;
+}
+#FK:hover{
+  max-width: 50px;
+  margin: auto;
+}
+#FKMain{
+  max-width: 45px;
+  margin: auto;
+}
+#FKMain:hover{
+  max-width: 65px;
+  margin: auto;
+}
 #HSM{
-    max-width: 120px;
+    max-width: 50px;
+    margin: auto;
 }
 #HSM:hover{
-    max-width: 220px;
+    max-width: 70px;
+    margin: auto;
 }
 #Descendants{
-    max-width: 120px;
+    max-width: 50px;
+    margin: auto;
 }
 #Descendants:hover{
-    max-width: 220px;
+    max-width: 70px;
+    margin: auto;
 }
 #Mando{
-    max-width: 120px;
+    max-width: 50px;
+    margin: auto;
 }
 #Mando:hover{
-    max-width: 220px;
+    max-width: 70px;
+    margin: auto;
 }
 #Zombie{
-    max-width: 120px;
+    max-width: 50px;
+    margin: auto;
 }
 #Zombie:hover{
-    max-width: 220px;
+    max-width: 70px;
+    margin: auto
 }
 
 #Marvel{
-    max-width: 120px;
+    max-width: 50px;
+    margin: auto
 }
 #Marvel:hover{
-    max-width: 220px;
+    max-width: 70px;
+    margin: auto;
 }
 #Jessie{
-    max-width: 120px;
+    max-width: 50px;
+    margin: auto;
 }
 #Jessie:hover{
-    max-width: 220px;
+    max-width: 70px;
+    margin: auto;
 }
 #Glee{
-    max-width: 120px;
+    max-width: 50px;
+    margin: auto;
 }
 #Glee:hover{
-    max-width: 220px;
+    max-width: 70px;
+    margin: auto;
 }
 #Greys{
-    max-width: 120px;
+    max-width: 50px;
+    margin: auto;
 }
 #Greys:hover{
-    max-width: 220px;
+    max-width: 70px;
+    margin: auto;
 }
 #Riverdale{
-    max-width: 120px;
+    max-width: 50px;
+    margin: auto;
 }
 #Riverdale:hover{
-    max-width: 220px;
+    max-width: 70px;
+    margin: auto;
+}
+iframe{
+  max-width: 50;
+  max-height: 70;
 }
