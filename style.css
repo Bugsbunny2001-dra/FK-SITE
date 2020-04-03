@@ -17,6 +17,10 @@ a{
     text-decoration: none;
     color: rgb(255, 20, 147);
 }
+#Home{
+  max-width: 768px;
+  margin: auto;
+}
 #CB{
   max-width: 65px;
   margin: auto;
