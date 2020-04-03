@@ -12,6 +12,20 @@ body{
     margin: auto;
 
 }
+h2{
+  color:gold;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+  color:red;
+  font-family:monospace;
+  margin:0%;
+  border-width:5px;
+  border-color:yellow;
+  border-style:solid;
+  max-width:250px;
+  background-color:whitesmoke;
+}
 
 a{
     text-decoration: none;
